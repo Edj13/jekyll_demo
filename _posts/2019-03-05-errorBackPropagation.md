@@ -1,5 +1,5 @@
 ---
-layout:default
+layout:post
 title: 机器学习-误差逆传播算法
 ---
 
